@@ -1,0 +1,12 @@
+https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Status-weather-showers-scattered-day-icon.html
+
+Gimp-
+Load
+    - Image -> Mode            set to RGB
+    - Layer -> New Layer       set Fill With to Transparency
+    - Select Layer and Bucket Fill /w Black
+    - Move the layer below the original 
+    - Right click on original and select "Merge Visible Layers"
+    - Image -> Scale Image     lock chain, set to 140x140 the press Scale
+    - Export Image (use .bmp)
+    - Expand "Advanced Options" and select 24 bits (R8 G8 B8)

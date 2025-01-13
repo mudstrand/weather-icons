@@ -1,0 +1,1 @@
+Icons used for Weather Station XL
