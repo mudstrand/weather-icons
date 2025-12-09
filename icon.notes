@@ -1,5 +1,16 @@
 https://www.iconarchive.com/show/oxygen-icons-by-oxygen-icons.org/Status-weather-showers-scattered-day-icon.html
 
+
+run the to_icon.sh shell script using image magick to convert Oxygen icons into 
+the correct size for the weather-station-xl.
+
+The clear-night image needs special handling since its color model is Gray.  it
+needs to be loaded into Gimp and exported as a 24-bit RBG.  And export it as a 
+BMP file.  Once exported, it can be resized to 140x140 using magick.
+
+===============================================================================
+OLD INFO
+
 Gimp-
 Load
     - Image -> Mode            set to RGB
